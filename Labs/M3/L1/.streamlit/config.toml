@@ -5,4 +5,4 @@ password = "xxxxxxxxxx"
 role = "ACCOUNTADMIN"
 warehouse = "COMPUTE_WH"
 database = "AVALANCHE_DB"
-schema = "AVALANCHE_SCHEMA"s
+schema = "AVALANCHE_SCHEMA"
